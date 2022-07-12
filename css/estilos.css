@@ -1,6 +1,6 @@
 body {
     background: #1e1f24;
-    color: #333;
+    color: white;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
@@ -40,10 +40,3 @@ body {
 #container h1 {
     font-size: 20px;
 }
-<<<<<<< HEAD
-#post {
-    background: white;
-    padding: 1em;
-}
-=======
->>>>>>> footer
